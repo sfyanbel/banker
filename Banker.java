@@ -22,10 +22,11 @@ public class MyClass {
                                              }
                     }
                     
-                    else
+                  
+                }
+                  else
                 {
                     j++;
-                }
                 }
                
                       if (i==4  && j!=0)
