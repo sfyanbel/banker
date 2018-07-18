@@ -5,10 +5,9 @@ public class MyClass {
         int ar2 []= new int[] { 0, 2, 3, 2, 0 };
         int bool[] = new int[] { 0, 0, 0, 0, 0 };
         int num = 3;
-        int lengtArr = 5;
             int nc = 0;
             int j = 0;
-            for (int i = 0; i < lengtArr; i++)
+            for (int i = 0; i < 5; i++)
             {
                 if (num >= ar1[i] )
                 {
