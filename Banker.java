@@ -21,11 +21,13 @@ public class MyClass {
                                                 break;
                                              }
                     }
-                }
-                else
+                    
+                    else
                 {
                     j++;
                 }
+                }
+               
                       if (i==4  && j!=0)
                       {
                          i = 0;
